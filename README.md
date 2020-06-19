@@ -27,7 +27,7 @@ In 1949, she was awarded Spanish patent 190,698 for the "Mechanical Encyclopedia
 
 Her pourpose was to lighten the weight of the books carried by her students, so she created a device consisting of a series of text and illustrations on reels, all under a sheet of magnifying glass with a light for reading in the dark, and was to incorporate spoken descriptions of each topic. Her device was never put into production but a prototype is in display at the National Museum of Science and Technology in A Coruña.<br />
 
-![Enciclopedia](https://raw.githubusercontent.com/silalonso/project-promo-i-module-1-team-4-morning/master/public/assets/images/enciclopedia.jpg "The Mechanical Encyclopedia")
+![Enciclopedia](https://raw.githubusercontent.com/silalonso/project-promo-i-module-1-team-4-morning/master/_src/assets/images/enciclopedia.jpg "The Mechanical Encyclopedia")
 
 
 So we decided to name us after her.
@@ -52,7 +52,7 @@ We also shared **feedback** about the strenghts and improvement oportunities of 
 
 
 
-## :wrech: What did we use?
+## :wrench: What did we use?
 
 For this project we used:
 - HTML5 
